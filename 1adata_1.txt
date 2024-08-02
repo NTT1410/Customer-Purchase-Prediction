@@ -1,0 +1,122 @@
+NO         Tên    Loại dữ Mô tả
+         trường     liệu  trường
+                           Định
+                           danh
+                           duy
+                           nhất
+                           của
+                           khách
+      1ID         Int      hàng
+                           Tuổi
+                           của
+                           khách
+      2age        Int      hàng
+                           Nghề
+                           nghiệp
+                           của
+                           khách
+      3job        String   hàng
+                           Tình
+                           trạng
+                           hôn
+      4marital    String   nhân
+                           Mức độ
+                           giáo
+      5educationString     dục
+                           Có ghi
+                           nhận vi
+                           phạm
+                           thanh
+                           toán
+                           hay
+      6default    String   không
+                           Số dư
+                           trung
+                           bình tài
+                           khoản
+                           mỗi
+      7balance Int         năm
+                           Có
+                           khoản
+                           vay mua
+                           nhà hay
+      8housing String      không
+                           Có
+                           khoản
+                           vay cá
+                           nhân
+                           hay
+      9loan       String   không
+                           Cách
+                           thức liên
+                           lạc với
+                           khách
+     10contact    String   hàng
+                           Ngày
+                           cuối
+                           cùng
+                           liên lạc
+                           (số
+     11day        Int      ngày)
+                           Tháng
+                           cuối
+                           cùng
+     12month      String   liên lạc
+                           Tổng
+                           thời
+                           gian nói
+                           chuyện
+                           trong
+                           lần liên
+     13duration Int        lạc cuối
+                   Số lần
+                   đã liên
+                   lạc với
+                   khách
+                   hàng
+                   trong
+                   chiến
+14campaignInt      dịch này
+                   Số ngày
+                   kể từ
+                   lần liên
+                   lạc cuối
+                   cùng với
+                   khách
+                   hàng
+                   trong
+                   chiến
+                   dịch
+                   trước đó
+                   (999
+                   biểu thị
+                   chưa
+                   từng
+15pdays    Int     liên lạc)
+                   Số lần
+                   đã liên
+                   lạc với
+                   khách
+                   hàng
+                   trước
+                   chiến
+16previous Int     dịch này
+                   Kết quả
+                   của
+                   chiến
+                   dịch
+17poutcomeString   trước
+                   Dự
+                   đoán
+                   xem
+                   khách
+                   hàng có
+                   đăng ký
+                   sản
+                   phẩm
+                   tiết
+                   kiệm có
+                   kỳ hạn
+                   hay
+18y        Int     không
+
